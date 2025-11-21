@@ -1,0 +1,6 @@
+name: hyperact-mcp
+runtime:
+  name: python
+  options:
+    virtualenv: .venv
+description: Cloud Run service and global HTTPS load balancer for hyperact-mcp
